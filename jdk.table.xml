@@ -1,0 +1,667 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="/usr/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1247971763" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (bapi3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="$USER_HOME$/venvs/bapi3/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/venvs/bapi3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/venvs/bapi3/src/pyramid-whoauth" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/2101434406" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/project/bapi" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (bapi3) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/venvs/bapi3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/venvs/bapi3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/venvs/bapi3/src/pyramid-whoauth" type="simple" />
+            <root url="file://$USER_HOME$/project/bapi" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/67788205" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/venvs/bapi3" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (boost3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/venvs/boost3/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/zope.sqlalchemy-0.7.7-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/zope.interface-4.2.0-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/zope.deprecation-4.1.2-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/wgenemail-1.4.dev0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/waitress-0.9.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/venusian-1.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/validictory-1.1.0-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/validate_email-1.3-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/translationstring-1.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/transaction-1.6.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/simplejson-3.16.0-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/requests-2.7.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/repoze.lru-0.6-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/pytz-2016.7-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/python_editor-1.0.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/pyramid_multiauth-0.9.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/pyramid_mas_auth-1.1.0.post9-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/pyramid-1.8.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/pyramid_tm-0.12.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/pyramid_sqlalchemy-1.6-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/pyramid_mako-1.0.2-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/pyramid_jinja2-2.6.2-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/pyramid_debugtoolbar-3.0.4-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/pycparser-2.14-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/psycopg2-2.7.7-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/napi3_client-0.3.4.post23-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/mas_python_client-0.6.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/burst_navigation_helper-1.2.1-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/bapiclient-15.0.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/amplify_models-15.0.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/alembic-0.8.7-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/WebTest-2.0.23-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/WebOb-1.8.5-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/SQLAlchemy-1.1.0b3-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/Pygments-2.1.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/PasteDeploy-1.5.2-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/MarkupSafe-0.23-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/Mako-1.0.4-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/Jinja2-2.8-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/amplify_tracekey-1.0.0.post6-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/hupper-1.9-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/amplify_service_auth-0.1.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/wgen.logger-3.0.5.post8-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/six-1.13.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/burst_rest_util-1.0.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/amplify_modeltools-1.0.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/amplify_functools-1.0.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/beautifulsoup4-4.8.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/wgen.metrics-2.3.0.post12-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/method_decorator-0.1.3-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/future-0.18.2-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/decorator-4.4.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/requests_futures-0.9.9-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/mclass_service_auth-0.0.2-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/toposort-1.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/iso8601-0.1.12-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/isodate-0.6.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/soupsieve-1.9.5-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/python3.6/site-packages/datadog-0.31.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/842883813" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/project/boost-api" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (bapi_tests3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="$USER_HOME$/venvs/bapi_tests3/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/venvs/bapi_tests3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/project/bapi_tests" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1337762812" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/project/boost-api" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (idel2-apis)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="$USER_HOME$/venvs/boost3/lib/idel2-apis/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/venvs/boost3/lib/idel2-apis/lib/python3.6/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1233340745" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (rasberi)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.17" />
+      <homePath value="$USER_HOME$/.virtualenvs/rasberi/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/RAS/rasberi/src" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/redis-2.10.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/django_redis-4.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/django_pylibmc-0.6.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/XlsxWriter-0.8.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/functools32-3.2.3.post2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/behave-1.2.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/futures-3.0.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/nose_cov-1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/coverage-4.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/nose-1.3.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/mclass.masclient-1.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/requests-2.7.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/wgen.metrics-2.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/wgen.logger-1.3.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/wgen.auth-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/pep8-1.6.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/decorator-4.0.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/simplejson-2.5.2-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/mock-1.3.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/Mako-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/Django-1.8.4-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/msgpack_python-0.5.6-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/pylibmc-1.6.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/parse-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/parse_type-0.5.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/cov_core-1.15.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/py_bcrypt-0.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/pbr-5.4.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/MarkupSafe-1.1.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/redis-2.10.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/django_redis-4.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/django_pylibmc-0.6.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/XlsxWriter-0.8.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/functools32-3.2.3.post2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/behave-1.2.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/futures-3.0.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/nose_cov-1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/coverage-4.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/nose-1.3.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/mclass.masclient-1.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/requests-2.7.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/wgen.metrics-2.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/wgen.logger-1.3.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/wgen.auth-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/pep8-1.6.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/decorator-4.0.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/simplejson-2.5.2-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/mock-1.3.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/Mako-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/Django-1.8.4-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/msgpack_python-0.5.6-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/pylibmc-1.6.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/parse-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/parse_type-0.5.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/cov_core-1.15.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/py_bcrypt-0.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/pbr-5.4.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/MarkupSafe-1.1.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/827860447" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/RAS" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (dxm)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.17" />
+      <homePath value="$USER_HOME$/.virtualenvs/dxm/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/RAS/dxm/src" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/datadog-0.33.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/napi3_client-0.3.4.post23-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/redis-2.10.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/django_redis-4.2.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/docopt-0.6.2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/django_pylibmc-0.6.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/functools32-3.2.3.post2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/requests-2.7.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/nose_cov-1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/coverage-4.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/nose-1.3.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/Pygments-2.5.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/PyYAML-5.3b1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Downloads/pyodbc-3.0.6" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/mclass.masclient-1.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/wgen.metrics-2.3.0.post12-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/wgen.logger-1.3.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/wgen.auth-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/simplejson-2.5.2-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/Mako-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/Django-1.8.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/decorator-4.4.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/amplify_service_auth-0.1.3-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/msgpack_python-0.5.6-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/pylibmc-1.6.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/six-1.13.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/parse_type-0.5.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/parse-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/cov_core-1.15.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/future-0.18.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/py_bcrypt-0.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/MarkupSafe-1.1.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/datadog-0.33.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/napi3_client-0.3.4.post23-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/redis-2.10.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/django_redis-4.2.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/docopt-0.6.2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/django_pylibmc-0.6.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/functools32-3.2.3.post2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/requests-2.7.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/nose_cov-1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/coverage-4.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/nose-1.3.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/Pygments-2.5.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/PyYAML-5.3b1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/mclass.masclient-1.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/wgen.metrics-2.3.0.post12-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/wgen.logger-1.3.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/wgen.auth-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/simplejson-2.5.2-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/Mako-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/Django-1.8.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/decorator-4.4.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/amplify_service_auth-0.1.3-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/msgpack_python-0.5.6-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/pylibmc-1.6.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/six-1.13.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/parse_type-0.5.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/parse-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/cov_core-1.15.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/future-0.18.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/py_bcrypt-0.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/MarkupSafe-1.1.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1210094980" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/RAS" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (dxm) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.17" />
+      <homePath value="$USER_HOME$/.virtualenvs/dxm/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///snap/pycharm-professional/196/plugins/python/helpers" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/RAS/dxm/src" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/datadog-0.33.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/napi3_client-0.3.4.post23-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/redis-2.10.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/django_redis-4.2.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/docopt-0.6.2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/django_pylibmc-0.6.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/functools32-3.2.3.post2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/requests-2.7.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/nose_cov-1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/coverage-4.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/nose-1.3.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/Pygments-2.5.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/PyYAML-5.3b1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Downloads/pyodbc-3.0.6" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/mclass.masclient-1.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/wgen.metrics-2.3.0.post12-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/wgen.logger-1.3.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/wgen.auth-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/simplejson-2.5.2-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/Mako-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/Django-1.8.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/decorator-4.4.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/amplify_service_auth-0.1.3-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/msgpack_python-0.5.6-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/pylibmc-1.6.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/six-1.13.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/parse_type-0.5.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/parse-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/cov_core-1.15.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/future-0.18.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/py_bcrypt-0.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/local/lib/python2.7/site-packages/MarkupSafe-1.1.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/datadog-0.33.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/napi3_client-0.3.4.post23-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/redis-2.10.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/django_redis-4.2.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/docopt-0.6.2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/django_pylibmc-0.6.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/functools32-3.2.3.post2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/requests-2.7.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/nose_cov-1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/coverage-4.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/nose-1.3.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/Pygments-2.5.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/PyYAML-5.3b1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/mclass.masclient-1.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/wgen.metrics-2.3.0.post12-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/wgen.logger-1.3.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/wgen.auth-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/simplejson-2.5.2-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/Mako-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/Django-1.8.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/decorator-4.4.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/amplify_service_auth-0.1.3-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/msgpack_python-0.5.6-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/pylibmc-1.6.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/six-1.13.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/parse_type-0.5.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/parse-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/cov_core-1.15.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/future-0.18.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/py_bcrypt-0.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/dxm/lib/python2.7/site-packages/MarkupSafe-1.1.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-2015883913" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/RAS/dxm" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (rasberi) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.17" />
+      <homePath value="$USER_HOME$/.virtualenvs/rasberi/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///snap/pycharm-professional/196/plugins/python/helpers" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/RAS/rasberi/src" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/redis-2.10.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/django_redis-4.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/django_pylibmc-0.6.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/XlsxWriter-0.8.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/functools32-3.2.3.post2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/behave-1.2.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/futures-3.0.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/nose_cov-1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/coverage-4.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/nose-1.3.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/mclass.masclient-1.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/requests-2.7.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/wgen.metrics-2.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/wgen.logger-1.3.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/wgen.auth-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/pep8-1.6.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/decorator-4.0.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/simplejson-2.5.2-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/mock-1.3.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/Mako-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/Django-1.8.4-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/msgpack_python-0.5.6-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/pylibmc-1.6.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/parse-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/parse_type-0.5.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/cov_core-1.15.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/py_bcrypt-0.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/pbr-5.4.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/MarkupSafe-1.1.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/local/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/redis-2.10.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/django_redis-4.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/django_pylibmc-0.6.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/XlsxWriter-0.8.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/jsonschema-2.5.1-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/functools32-3.2.3.post2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/behave-1.2.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/futures-3.0.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/nose_cov-1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/coverage-4.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/nose-1.3.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/mclass.masclient-1.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/requests-2.7.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/wgen.metrics-2.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/wgen.logger-1.3.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/wgen.auth-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/pep8-1.6.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/decorator-4.0.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/simplejson-2.5.2-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/mock-1.3.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/Mako-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/Django-1.8.4-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/msgpack_python-0.5.6-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/pylibmc-1.6.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/parse-1.14.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/parse_type-0.5.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/cov_core-1.15.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/py_bcrypt-0.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/pbr-5.4.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/funcsigs-1.0.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/MarkupSafe-1.1.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/1088412476" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/RAS/rasberi" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (rasberi3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="$USER_HOME$/.virtualenvs/rasberi3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///snap/pycharm-professional/196/plugins/python/helpers" type="simple" />
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/wgen.metrics-2.3.0.post12-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/wgen.logger-3.0.5.post11-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/simplejson-3.17.0-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/requests-2.22.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/redis-2.10.6-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/pycodestyle-2.5.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/nose-1.3.7-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/nose_cov-1.6-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/mock-3.0.5-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/jsonschema-3.2.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/django_redis-4.10.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/django_pylibmc-0.6.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/coverage-4.5.4-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/behave-1.2.6-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/bcrypt-3.1.7-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/XlsxWriter-1.2.6-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/Mako-1.1.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/Django-2.2.8-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/future-0.18.2-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/datadog-0.34.0-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/method_decorator-0.1.3-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/decorator-4.4.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/cov_core-1.15.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/pyrsistent-0.15.7-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/pylibmc-1.6.1-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/parse-1.14.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/parse_type-0.5.2-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/cffi-1.14.0-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/MarkupSafe-1.1.1-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/sqlparse-0.3.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/pytz-2019.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/rasberi3/lib/python3.6/site-packages/pycparser-2.19-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/RAS/rasberi/src" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-294617548" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/RAS/rasberi" />
+    </jdk>
+  </component>
+</application>
